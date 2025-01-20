@@ -92,15 +92,16 @@ Data Source (Kaggle)
 ## 📸 Screenshots
 
 ### Azure Data Factory Pipeline
+![Data Factory Pipeline](Images/Data_Factory.png)
 
 
 
 ### Azure Databricks Transformation
-
+![Databricks Transformation](Images/Databricks.png)
 
 
 ### Synapse Analytics SQL Scripts
-
+![Synapse Analytics](Images/Synapse.png)
 
 
 ---
