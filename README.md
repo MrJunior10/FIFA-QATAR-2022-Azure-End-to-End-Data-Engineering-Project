@@ -1,5 +1,5 @@
 
-# Azure FIFA Qatar Data Engineering Project ⚽
+# Azure FIFA Qatar Data Engineering End to End Project ⚽
 
 Welcome to the **FIFA Qatar Data Engineering Project** repository! 🚀 This project demonstrates a complete end-to-end data pipeline using Azure services. It includes data ingestion, transformation, and analytics with a focus on showcasing the power of Azure Data Factory, Databricks, Synapse Analytics, and Data Lake Gen2.
 
