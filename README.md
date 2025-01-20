@@ -106,16 +106,5 @@ Data Source (Kaggle)
 
 ---
 
-## 🤝 Contributing
-
-Feel free to fork this repository and submit pull requests to improve the pipeline or add new features.
-
----
-
-## 📧 Contact
-
-For any queries, reach out to [your email/contact info].
-
----
 
 **Thank you for visiting this repository! Hope you find this project insightful. 🌟**
